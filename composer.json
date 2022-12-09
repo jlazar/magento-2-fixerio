@@ -1,0 +1,17 @@
+{
+  "name": "jlazar/module-fixerio",
+  "description": "Magento fixerio update",
+  "require": {},
+  "type": "magento2-module",
+  "version": "1.0.0",
+  "license": "proprietary",
+  "authors": [],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ],
+    "psr-4": {
+      "Jlazar\\Fixerio\\": ""
+    }
+  }
+}
